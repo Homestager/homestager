@@ -1,16 +1,15 @@
-## Hi there 👋
+# AnalyticsPro Landing Page
 
-<!--
-**Homestager/homestager** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Современный лендинг для сервиса аналитики.
 
-Here are some ideas to get you started:
+## Структура проекта
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- `index.html` - Главная страница лендинга.
+- `css/styles.css` - Стили страницы (современный дизайн, анимации, адаптивность).
+
+## Особенности
+
+- Адаптивный дизайн (мобильная и десктопная версии).
+- Плавные анимации появления элементов.
+- Форма захвата лидов.
+- Современная типографика (Inter) и цветовая палитра.
