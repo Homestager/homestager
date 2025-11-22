@@ -8,3 +8,5 @@
 
  ✓ Starting...
  ✓ Ready in 608ms
+ GET / 200 in 1954ms (compile: 1808ms, render: 146ms)
+[?25h
